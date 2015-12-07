@@ -1,4 +1,4 @@
-var link = "server/controller/controller.php?cmd=";
+var link = "http://cs.ashesi.edu.gh/class2016/salifu-mutaru/kaaya/server/controller/controller.php?cmd";
 var username = "";
 var photo = "user.png";
 var fullname = "";
